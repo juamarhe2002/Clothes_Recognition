@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/
+yolo_model/
+
+settings.json
+data_processing.ipynb
